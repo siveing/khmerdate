@@ -1,0 +1,22 @@
+{
+  "name": "khmerdate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siveing/khmerdate.git"
+  },
+  "author": "siveing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/siveing/khmerdate/issues"
+  },
+  "homepage": "https://github.com/siveing/khmerdate#readme",
+  "publishConfig": {
+    "siveing:registry": "https://npm.pkg.github.com"
+  }
+}
