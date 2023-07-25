@@ -1,4 +1,4 @@
-class Config {
+class Constant {
     constructor() {
         this.numbers = {
             0: '០',
@@ -43,5 +43,5 @@ class Config {
 }
 
 module.exports = {
-    Config
+    Constant
 };

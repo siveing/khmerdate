@@ -1,7 +1,7 @@
 {
-  "name": "khmerdate",
+  "name": "@siveing/khmerdate",
   "version": "1.0.0",
-  "description": "",
+  "description": "convert the date in khmer language.",
   "main": "index.js",
   "scripts": {
     "test": "node test/index.js"
@@ -10,7 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/siveing/khmerdate.git"
   },
-  "author": "siveing",
+  "keywords": [
+    "convert date",
+    "Khmer date format",
+    "format date in khmer"
+  ],
+  "author": "Siveing Huy",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/siveing/khmerdate/issues"
