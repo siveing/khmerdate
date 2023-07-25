@@ -1,1 +1,5 @@
-console.log("Hello, World!");
+const { DateConverter } = require("./converter")
+
+module.exports = {
+    KhmerDate: DateConverter
+}

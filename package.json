@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test/index.js"
   },
   "repository": {
     "type": "git",
@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/siveing/khmerdate/issues"
   },
-  "homepage": "https://github.com/siveing/khmerdate#readme",
-  "publishConfig": {
-    "siveing:registry": "https://npm.pkg.github.com"
-  }
+  "homepage": "https://github.com/siveing/khmerdate#readme"
 }
