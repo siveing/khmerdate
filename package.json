@@ -1,6 +1,6 @@
 {
   "name": "@siveing/khmerdate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "convert the date in khmer language.",
   "main": "index.js",
   "scripts": {
